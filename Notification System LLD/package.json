@@ -1,0 +1,13 @@
+{
+  "name": "notification-system-lld",
+  "version": "1.0.0",
+  "description": "Functional Requirement",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node dist/client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
